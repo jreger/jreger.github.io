@@ -1,100 +1,100 @@
 {
   "data": [
-    {
-      "id": "2034",
-      "name": "Autoversicherung",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Kfz-Versicherungen",
-      "datum": "2020\/10\/25"
-    },
-    {
-      "id": "1026",
-      "name": "Haftpflichtversicherung",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Haftpflichtersicherungen",
-      "datum": "2020\/09\/25"
-    },
-    {
-      "id": "1038",
-      "name": "Baufinanzierung",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Finanzierung",
-      "datum": "2020\/08\/15"
-    },
-    {
-      "id": "1007",
-      "name": "Gewerbeversicherung",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Gewerbe",
-      "datum": "2020\/02\/22"
-    },
-    {
-      "id": "1815",
-      "name": "Corona-News",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Sonstiges",
-      "datum": "2020\/03\/17"
-    },
-    {
-      "id": "1604",
-      "name": "Musterkampagne",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Sonstiges",
-      "datum": "2020\/03\/02"
-    },
-    {
-      "id": "2035",
-      "name": "Autoversicherung 2",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Kfz-Versicherungen",
-      "datum": "2020\/10\/25"
-    },
-    {
-      "id": "1027",
-      "name": "Haftpflichtversicherung 2",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Haftpflichtersicherungen",
-      "datum": "2020\/09\/25"
-    },
-    {
-      "id": "1039",
-      "name": "Baufinanzierung 2",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Finanzierung",
-      "datum": "2020\/08\/15"
-    },
-    {
-      "id": "1008",
-      "name": "Gewerbeversicherung 2",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Gewerbe",
-      "datum": "2020\/02\/22"
-    },
-    {
-      "id": "1816",
-      "name": "Corona-News 2",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Sonstiges",
-      "datum": "2020\/03\/17"
-    },
-    {
-      "id": "1605",
-      "name": "Musterkampagne 2",
-      "screenshot": "https://dummyimage.com/600x400/666/fff",
-      "status": "veröffentlicht",
-      "sparte": "Sonstiges",
-      "datum": "2020\/03\/02"
-    }
+    [
+      "2034",
+      "Autoversicherung",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Kfz-Versicherungen",
+      "2020/10/25"
+    ],
+    [
+      "1026",
+      "Haftpflichtversicherung",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Haftpflichtersicherungen",
+      "2020/09/25"
+    ],
+    [
+      "1038",
+      "Baufinanzierung",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Finanzierung",
+      "2020/08/15"
+    ],
+    [
+      "1007",
+      "Gewerbeversicherung",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Gewerbe",
+      "2020/02/22"
+    ],
+    [
+      "1815",
+      "Corona-News",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Sonstiges",
+      "2020/03/17"
+    ],
+    [
+      "1604",
+      "Musterkampagne",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Sonstiges",
+      "2020/03/02"
+    ],
+    [
+      "2035",
+      "Autoversicherung 2",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Kfz-Versicherungen",
+      "2020/10/25"
+    ],
+    [
+      "1027",
+      "Haftpflichtversicherung 2",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Haftpflichtersicherungen",
+      "2020/09/25"
+    ],
+    [
+      "1039",
+      "Baufinanzierung 2",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Finanzierung",
+      "2020/08/15"
+    ],
+    [
+      "1008",
+      "Gewerbeversicherung 2",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Gewerbe",
+      "2020/02/22"
+    ],
+    [
+      "1816",
+      "Corona-News 2",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Sonstiges",
+      "2020/03/17"
+    ],
+    [
+      "1605",
+      "Musterkampagne 2",
+      "https://dummyimage.com/600x400/666/fff",
+      "veröffentlicht",
+      "Sonstiges",
+      "2020/03/02"
+    ]
   ]
 }

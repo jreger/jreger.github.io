@@ -82,3 +82,23 @@ $(document).ready(function () {
   })
 
 });
+
+
+****
+
+
+
+
+$(document).ready(function() {
+    $('#example').DataTable( {
+        data: dataSet,
+        columns: [
+            { title: "ID" },
+            { title: "Name" },
+            { title: "Image" },
+            { title: "Status" },
+            { title: "Sparte" },
+            { title: "Datum" }
+        ]
+    } );
+} );
